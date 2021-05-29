@@ -63,9 +63,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Update SMTP Details in .env File
 
-MAIL_DRIVER=smtp
-MAIL_HOST=smtp.gmail.com
-MAIL_PORT=587
-MAIL_USERNAME=your email
-MAIL_PASSWORD='your password'
-MAIL_ENCRYPTION=tls
+MAIL_DRIVER=smtp<br>
+MAIL_HOST=smtp.gmail.com<br>
+MAIL_PORT=587<br>
+MAIL_USERNAME=your email<br>
+MAIL_PASSWORD='your password'<br>
+MAIL_ENCRYPTION=tls<br>
