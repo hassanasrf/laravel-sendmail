@@ -60,3 +60,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Update SMTP Details in .env File
+
+MAIL_DRIVER=smtp<br>
+MAIL_HOST=smtp.gmail.com<br>
+MAIL_PORT=587<br>
+MAIL_USERNAME=your email<br>
+MAIL_PASSWORD='your password'<br>
+MAIL_ENCRYPTION=tls<br>
